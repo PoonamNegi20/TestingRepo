@@ -13,6 +13,7 @@ class CovidDataVC: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
        networkSetup()
+        //modified
     }
     
     
